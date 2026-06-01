@@ -1,0 +1,26 @@
+{
+  "name": "webserial",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wuyajundeyouxiang/serial-charts.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/wuyajundeyouxiang/serial-charts/issues"
+  },
+  "homepage": "https://github.com/wuyajundeyouxiang/serial-charts#readme",
+  "devDependencies": {
+    "@types/w3c-web-serial": "^1.0.8",
+    "typescript": "^6.0.3",
+    "vite": "^8.0.15"
+  }
+}
